@@ -11,6 +11,7 @@ body{
 li,ul{
   list-style:none;
   display:inline;
+  font-size:12px;
   padding:0px;
   margin:0px;
 }
@@ -32,6 +33,7 @@ a:visited,a{
 a:hover{
   color:#333;
   background-color:#FFF;
+  text-decoration: underline;
 }
 .blogpost{
 
