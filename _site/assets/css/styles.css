@@ -1,5 +1,5 @@
 @import url("https://fonts.googleapis.com/css?family=Source+Code+Pro:400,700");
-body { color: #FFF; font-size: 14px; font-family: "Source Code Pro", monospace; background-color: #111; width: 500px; margin: 0 auto; margin-top: 1%; }
+body { color: #FFF; font-size: 14px; font-family: "Source Code Pro", monospace; background-color: #111; width: 600px; margin: 0 auto; margin-top: 1%; }
 
 li, ul, p { list-style: none; display: inline; padding: 0px; margin: 0px; }
 
