@@ -4,4 +4,4 @@ title: Contact
 ---
 # Contact page
 
-My discord is Nobody#2112
+Currently there are no ways to contact me. :(
