@@ -1,0 +1,11 @@
+---
+layout: post
+author: 0xKR34M
+---
+<p>I recently purchased the Hak5 Essentials Fieldkit, it alleges to be a 10 piece kit that provides all of the essential tools.</p>
+<p>Having no experience with physical tools I was a bit excited to say the least. It took around a week to arrive considering it came from the US to the UK, I was quite pleased with the speed of delivery.
+<p>
+  <i>The reality.</i>
+</p>
+<p>What they claim as a 10 piece fieldkit is really a 3 piece fieldkit. What you actually get is a Bash Bunny, Lan Turtle, and a Pineapple Nano. For the price it's still a very good deal but never the less it does feel a bit misleading in how they try to sell it to you, as they actually count the books on how to use each item and the extra bits required to use them as 'pieces' for example the two aerials for the Pineapple are considered an individual piece each.</p>
+<p>I will be posting reviews of each individual piece shortly but over all I feel the price tag of $250 is worth it but I think that they should be a bit more transparent about what you get for your money, it is still worth the price regardless.</p>
