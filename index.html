@@ -1,9 +1,13 @@
-<!DOCTYPE html>
-<html>
-	<head>
-	</head>
-	<body>
-	<h2>Title</h2>
-	<p>I'm hosted with GH Pages</p>
-	</body>
-</html>
+---
+layout: default
+title: Home
+---
+<ul>
+  {% for post in site.posts %}
+    <li>
+      <h4>
+				- <a class="blogpost" href="{{ post.url }}">{{ post.title }}</a>
+			</h4>
+    </li>
+  {% endfor %}
+</ul>
