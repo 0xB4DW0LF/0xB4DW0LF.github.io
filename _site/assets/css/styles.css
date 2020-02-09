@@ -7,10 +7,12 @@ li, ul { list-style: none; display: inline; padding: 0px; margin: 0px; }
 
 h2, h4 { text-decoration: none; margin: 0px; padding: 0px; }
 
-a:visited, a { padding-left: 1px; padding-right: 1px; color: #FFF; text-decoration: none; margin-right: 10px; }
+a:visited, a { padding-left: 1px; padding-right: 1px; color: #FFF; text-decoration: none; }
 
 a:hover { color: #333; background-color: #FFF; }
 
 .blogpost { font-size: 12px; text-decoration: none; color: #FFF; }
+
+.link { color: #FFBA00; }
 
 /*# sourceMappingURL=styles.css.map */
