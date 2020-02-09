@@ -6,7 +6,7 @@ title: Home
   {% for post in site.posts %}
     <li>
       <h4>
-				- <a class="blogpost" href="{{ post.url }}">{{ post.title | upcase }}</a>
+				-  [ {{ post.date | date: '%d-%m-%Y'}} ] <a class="blogpost" href="{{ post.url }}">{{ post.title | upcase }}</a>
 			</h4>
     </li>
   {% endfor %}
