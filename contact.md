@@ -2,6 +2,6 @@
 layout: default
 title: Contact
 ---
-# Contact page
+# Contact Me
 
 Discord: 0xKR34M#6824
