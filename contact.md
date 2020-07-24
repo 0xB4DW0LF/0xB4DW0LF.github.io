@@ -1,8 +1,0 @@
----
-layout: default
-title: Contact
----
-# Contact Me
-
-<p>Discord: 0xKR34M#6824</p>
-<p>Email: 0xKR34M@ProtonMail.com</p>
