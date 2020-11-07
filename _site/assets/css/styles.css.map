@@ -1,0 +1,14 @@
+{
+	"version": 3,
+	"file": "styles.css",
+	"sources": [
+		"styles.scss",
+		"_sass/main.scss"
+	],
+	"sourcesContent": [
+		"@import \"main\";\n",
+		"@import url(\"https://fonts.googleapis.com/css?family=Source+Code+Pro:400,700\");\r\nbody{\r\n  color:#FFF;\r\n  font-size: 14px;\r\n  font-family: \"Source Code Pro\", monospace;\r\n  background-color:#111;\r\n  width:600px;\r\n  margin:0 auto;\r\n  margin-top:1%;\r\n}\r\nli,ul{\r\n  list-style:none;\r\n  display:inline;\r\n  font-size:12px;\r\n  padding:0px;\r\n  margin:0px;\r\n}\r\n.nav{\r\n  padding-top:2px;\r\n  padding-bottom:2px;\r\n}\r\nh2,h4{\r\n  text-decoration: none;\r\n  margin:0px;\r\n  padding:0px;\r\n}\r\na:visited,a{\r\n  padding-left:1px;\r\n  padding-right:1px;\r\n  color:#FFF;\r\n  text-decoration: none;\r\n}\r\na:hover{\r\n  color:#333;\r\n  background-color:#FFF;\r\n  text-decoration: underline;\r\n}\r\n.blogpost{\r\n\r\n  font-size:12px;\r\n  text-decoration:none;\r\n  color:#FFF;\r\n\r\n}\r\n.link{\r\n  color:#FFBA00;\r\n}\r\n"
+	],
+	"names": [],
+	"mappings": "ACAA,OAAO,CAAC,sEAAI;AACZ,AAAA,IAAI,CAAA,EACF,KAAK,EAAC,IAAI,EACV,SAAS,EAAE,IAAI,EACf,WAAW,EAAE,4BAA4B,EACzC,gBAAgB,EAAC,IAAI,EACrB,KAAK,EAAC,KAAK,EACX,MAAM,EAAC,MAAM,EACb,UAAU,EAAC,EAAE,GACd;;AACD,AAAA,EAAE,EAAC,EAAE,CAAA,EACH,UAAU,EAAC,IAAI,EACf,OAAO,EAAC,MAAM,EACd,SAAS,EAAC,IAAI,EACd,OAAO,EAAC,GAAG,EACX,MAAM,EAAC,GAAG,GACX;;AACD,AAAA,IAAI,CAAA,EACF,WAAW,EAAC,GAAG,EACf,cAAc,EAAC,GAAG,GACnB;;AACD,AAAA,EAAE,EAAC,EAAE,CAAA,EACH,eAAe,EAAE,IAAI,EACrB,MAAM,EAAC,GAAG,EACV,OAAO,EAAC,GAAG,GACZ;;AACD,AAAA,CAAC,CAAC,OAAO,EAAC,CAAC,CAAA,EACT,YAAY,EAAC,GAAG,EAChB,aAAa,EAAC,GAAG,EACjB,KAAK,EAAC,IAAI,EACV,eAAe,EAAE,IAAI,GACtB;;AACD,AAAA,CAAC,CAAC,KAAK,CAAA,EACL,KAAK,EAAC,IAAI,EACV,gBAAgB,EAAC,IAAI,EACrB,eAAe,EAAE,SAAS,GAC3B;;AACD,AAAA,SAAS,CAAA,EAEP,SAAS,EAAC,IAAI,EACd,eAAe,EAAC,IAAI,EACpB,KAAK,EAAC,IAAI,GAEX;;AACD,AAAA,KAAK,CAAA,EACH,KAAK,EAAC,OAAO,GACd"
+}
